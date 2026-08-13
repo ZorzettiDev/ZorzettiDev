@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./README.md/banner.png" alt="Rafael Zorzetti Developer" width="100%">
+  <img src="./assets/banner.png" alt="Rafael Zorzetti Developer" width="100%">
 </p>
+
 
 <h1 align="center">Rafael Zorzetti</h1>
 
